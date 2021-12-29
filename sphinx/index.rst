@@ -5,6 +5,7 @@
    tutorials/index
    publications/index
    development/index
+   blog/index
 
 Welcome to RepLAB!
 ==================
@@ -25,7 +26,6 @@ Key features
    " ", " ", " ", " ", " ", " ", " ", " ", " "
    " ", " ", " ", " ", " ", " ", " ", " ", " "
    "RepLAB's numerical decomposition into irreps can be certified", " ", "Construct new groups and representations by simple combination", " ", "Solves convex optimization problems with symmetries efficiently", " ", "Extensive documentation accessible by a click", " ", "Full open source software compatible with the GNU/Octave interpreter"
-
 
 RepLAB in action
 ----------------

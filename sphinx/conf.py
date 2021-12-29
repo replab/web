@@ -39,6 +39,7 @@ extensions = [
     'sphinx.ext.intersphinx', # cross references
 #    'sphinx_panels',          # panels
 #    'sphinx_design',          # another kind of panels
+    'ablog',                  # blog
 ]
 
 ##
@@ -93,6 +94,12 @@ nbsphinx_custom_formats = {
 }
 
 ##
+## blog
+##
+import ablog
+templates_path = ['_templates', ablog.get_html_templates_path()]
+
+##
 ## HTML template
 ##
 
@@ -125,5 +132,5 @@ html_js_files = [
 ]
 
 html_sidebars = {
-    '**': ['logo-text.html', 'globaltoc.html']
+    '**': ['logo-text.html', 'globaltoc.html', 'recentposts.html']
 }
