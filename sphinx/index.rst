@@ -3,12 +3,8 @@
    :hidden:
 
    tutorials/index
-   howto/index
-   topic/index
    publications/index
-   api/index
    development/index
-   blog/index
 
 Welcome to RepLAB!
 ==================
@@ -21,14 +17,33 @@ It is compatible with both `MATLAB <https://www.mathworks.com/products/matlab.ht
 Key features
 ------------
 
-.. csv-table::
-   :header: "Provable decompositions", " ", "Modular construction", " ", "Optimization toolbox integration", " ", "Interactive documentation", " ", "Open source"
-   :header-rows: 1
-   :widths: 20, 1, 20, 1, 20, 1, 20, 1, 20
-   
-   " ", " ", " ", " ", " ", " ", " ", " ", " "
-   " ", " ", " ", " ", " ", " ", " ", " ", " "
-   "RepLAB's numerical decomposition into irreps can be certified", " ", "Construct new groups and representations by simple combination", " ", "Solves convex optimization problems with symmetries efficiently", " ", "Extensive documentation accessible by a click", " ", "Full open source software compatible with the GNU/Octave interpreter"
+.. card-carousel:: 2
+
+
+    .. card::  Provable decompositions
+        :shadow: md
+
+        RepLAB's numerical decomposition into irreps can be certified
+
+    .. card::  Modular construction
+        :shadow: md
+
+        Construct new groups and representations by simple combination
+
+    .. card::  Optimization toolbox integration
+        :shadow: md
+
+        Solves convex optimization problems with symmetries efficiently
+
+    .. card::  Interactive documentation
+        :shadow: md
+
+        Extensive documentation accessible by a click
+
+    .. card::  Open source
+        :shadow: md
+
+        Full open source software compatible with the GNU/Octave interpreter
 
 RepLAB in action
 ----------------
@@ -58,9 +73,9 @@ They have everything to get you started, from installation instructions to hands
 The documentation of **RepLAB** is organized along 4 directions, following this `approach <https://www.divio.com/blog/documentation/>`_:
 
 -  :doc:`Tutorials <tutorials/index>`: are short hands-on presentations that give you a taste of the goodness of **RepLAB**
--  :doc:`How-to guides <howto/index>`: are concise recipes showing how to achieve a specific goal
--  :doc:`Topic guides <topic/index>`: are understanding-oriented presentations explaining the big picture and key notions on which this software is built
--  :doc:`Technical reference <api/index>`: contains a complete and accurate description of each object of the library
+-  `How-to guides <https://replab.github.io/book/>`_: are concise recipes showing how to achieve a specific goal
+-  `Topic guides <https://replab.github.io/apps/>`_: are understanding-oriented presentations explaining the big picture and key notions on which this software is built
+-  `Technical reference <https://replab.github.io/api/>`_: contains a complete and accurate description of each object of the library
 
 Work in progress
 ----------------
