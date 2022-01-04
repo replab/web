@@ -15,6 +15,41 @@ Current version: |version| (`GitHub <https://github.com/replab/replab>`_ / `late
 **RepLAB** provides tools to study representations of finite groups and decompose them numerically.
 It is compatible with both `MATLAB <https://www.mathworks.com/products/matlab.html>`_ and `Octave <https://www.gnu.org/software/octave/>`_.
 
+.. panels::
+    :container: container-fluid mx-auto
+    :column: col-lg-auto col-md-2 col-sm-2 col-xs-4 p-2
+    :header: text-center
+    :body: text-left
+
+    **Provable decompositions**
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    RepLAB's numerical decomposition into irreps can be certified
+
+    ---
+
+    **Modular construction**
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+    Construct new groups and representations by simple combination
+
+    ---
+
+    **Optimization toolbox integration**
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    Solves convex optimization problems with symmetries efficiently
+
+    ---
+
+    **Interactive documentation**
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    Extensive documentation accessible by a click
+
+    ---
+
+    **Open source**
+    ^^^^^^^^^^^^^^^
+    Full open source software compatible with the GNU/Octave interpreter
+
+
 Key features
 ------------
 
@@ -102,4 +137,4 @@ Feedback and suggestions are always welcome. We ask participants to follow the g
 License
 -------
 
-**RepLAB** is (C) 2018-2021 Denis Rosset, Jean-Daniel Bancal and other collaborators, and licensed under the `Mozilla Public License 2.0 <https://github.com/replab/replab/LICENSE>`_.
+**RepLAB** is (C) 2018-2022 Denis Rosset, Jean-Daniel Bancal and other collaborators, and licensed under the `Mozilla Public License 2.0 <https://github.com/replab/replab/LICENSE>`_.

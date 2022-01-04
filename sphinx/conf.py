@@ -12,7 +12,7 @@ from pathlib import Path
 ##
 
 project = 'replab-web'
-copyright = '2018-2021, Denis Rosset, Jean-Daniel Bancal and collaborators'
+copyright = '2018-2022, Denis Rosset, Jean-Daniel Bancal and collaborators'
 author = 'Denis Rosset, Jean-Daniel Bancal and collaborators'
 version = Path('../../external/replab/replab_version.txt').read_text().strip()
 release = version
@@ -37,7 +37,7 @@ extensions = [
     'sphinx.ext.mathjax',     # LaTeX support
     'texext.math_dollar',     # lightweight LaTeX filter
     'sphinx.ext.intersphinx', # cross references
-#    'sphinx_panels',          # panels
+    'sphinx_panels',          # panels
 #    'sphinx_design',          # another kind of panels
     'ablog',                  # blog
 ]
