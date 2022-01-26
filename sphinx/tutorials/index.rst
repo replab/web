@@ -11,7 +11,7 @@ the following resources will help you go further and start using **RepLAB** crea
 - A selection of `in-depth examples <https://replab.github.io/book/>`_
 - A `detailed description <https://replab.github.io/api/>`_ of the structure of the **RepLAB** code,
   including possible usage of each of available function
-- `Higher-level explanations  <https://replab.github.io/apps/>`_ of the main concepts, and of the
+- `Higher-level explanations  <https://replab.github.io/applis/>`_ of the main concepts, and of the
   inner working of the library organized around a list of topics
 
 

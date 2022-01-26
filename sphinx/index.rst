@@ -91,7 +91,7 @@ The documentation of **RepLAB** is organized along 4 directions, following this 
 
 -  :doc:`Tutorials <tutorials/index>`: are short hands-on presentations that give you a taste of the goodness of **RepLAB**
 -  `How-to guides <https://replab.github.io/book/>`_: are concise recipes showing how to achieve a specific goal
--  `Topic guides <https://replab.github.io/apps/>`_: are understanding-oriented presentations explaining the big picture and key notions on which this software is built
+-  `Topic guides <https://replab.github.io/applis/>`_: are understanding-oriented presentations explaining the big picture and key notions on which this software is built
 -  `Technical reference <https://replab.github.io/api/>`_: contains a complete and accurate description of each object of the library
 
 Work in progress
