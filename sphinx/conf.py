@@ -37,7 +37,7 @@ extensions = [
     'sphinx.ext.mathjax',     # LaTeX support
     'texext.math_dollar',     # lightweight LaTeX filter
     'sphinx.ext.intersphinx', # cross references
-    'sphinx_panels',          # panels
+#    'sphinx_panels',          # panels
 #    'sphinx_design',          # another kind of panels
     'ablog',                  # blog
 ]
